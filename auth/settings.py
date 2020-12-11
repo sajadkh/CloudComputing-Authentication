@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'restaurant_auth',
         'USER': 'root',
         'PASSWORD': '',
-        'HOST': 'localhost',
+        'HOST': 'db_mysql',
         'PORT': '',
     }
 }
